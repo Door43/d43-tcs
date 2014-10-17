@@ -1,0 +1,19 @@
+
+----
+~~NOCACHE~~
+**Door43**
+
+  * [[tcs:home|Door43 (tcs)]]
+  * [[en:license|License]]
+
+**Downloads**
+
+All content for this namespace is available in the [[https://github.com/Door43/d43-tcs|d43-tcs repository]].  To download it as a zip file, click [[https://github.com/Door43/d43-tcs/archive/master.zip|d43-tcs.zip]]
+
+**Recent Changes**
+{{changes>ns = tcs}}
+
+**Language Information**
+
+[[http://www.ethnologue.com/language/tcs|Ethnologue data]]
+
